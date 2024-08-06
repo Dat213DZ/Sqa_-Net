@@ -1,0 +1,318 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cheda\\OneDrive\\M\u00E1y t\u00EDnh\\Nh\u00F3m 2\\Nh\u00F3m 2\\DOAN_SPA_NHOM2\\DOAN_SPA_NHOM2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC8DD53D-6A53-4108-AC93-784ED9E65B36}|DOAN_SPA_NHOM2\\DOAN_SPA_NHOM2.csproj|c:\\users\\cheda\\onedrive\\m\u00E1y t\u00EDnh\\nh\u00F3m 2\\nh\u00F3m 2\\doan_spa_nhom2\\doan_spa_nhom2\\doan_spa_nhom2\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC8DD53D-6A53-4108-AC93-784ED9E65B36}|DOAN_SPA_NHOM2\\DOAN_SPA_NHOM2.csproj|solutionrelative:doan_spa_nhom2\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC8DD53D-6A53-4108-AC93-784ED9E65B36}|DOAN_SPA_NHOM2\\DOAN_SPA_NHOM2.csproj|c:\\users\\cheda\\onedrive\\m\u00E1y t\u00EDnh\\nh\u00F3m 2\\nh\u00F3m 2\\doan_spa_nhom2\\doan_spa_nhom2\\doan_spa_nhom2\\thanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC8DD53D-6A53-4108-AC93-784ED9E65B36}|DOAN_SPA_NHOM2\\DOAN_SPA_NHOM2.csproj|solutionrelative:doan_spa_nhom2\\thanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC8DD53D-6A53-4108-AC93-784ED9E65B36}|DOAN_SPA_NHOM2\\DOAN_SPA_NHOM2.csproj|c:\\users\\cheda\\onedrive\\m\u00E1y t\u00EDnh\\nh\u00F3m 2\\nh\u00F3m 2\\doan_spa_nhom2\\doan_spa_nhom2\\doan_spa_nhom2\\thanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EC8DD53D-6A53-4108-AC93-784ED9E65B36}|DOAN_SPA_NHOM2\\DOAN_SPA_NHOM2.csproj|solutionrelative:doan_spa_nhom2\\thanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC8DD53D-6A53-4108-AC93-784ED9E65B36}|DOAN_SPA_NHOM2\\DOAN_SPA_NHOM2.csproj|c:\\users\\cheda\\onedrive\\m\u00E1y t\u00EDnh\\nh\u00F3m 2\\nh\u00F3m 2\\doan_spa_nhom2\\doan_spa_nhom2\\doan_spa_nhom2\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EC8DD53D-6A53-4108-AC93-784ED9E65B36}|DOAN_SPA_NHOM2\\DOAN_SPA_NHOM2.csproj|solutionrelative:doan_spa_nhom2\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC8DD53D-6A53-4108-AC93-784ED9E65B36}|DOAN_SPA_NHOM2\\DOAN_SPA_NHOM2.csproj|c:\\users\\cheda\\onedrive\\m\u00E1y t\u00EDnh\\nh\u00F3m 2\\nh\u00F3m 2\\doan_spa_nhom2\\doan_spa_nhom2\\doan_spa_nhom2\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EC8DD53D-6A53-4108-AC93-784ED9E65B36}|DOAN_SPA_NHOM2\\DOAN_SPA_NHOM2.csproj|solutionrelative:doan_spa_nhom2\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC8DD53D-6A53-4108-AC93-784ED9E65B36}|DOAN_SPA_NHOM2\\DOAN_SPA_NHOM2.csproj|c:\\users\\cheda\\onedrive\\m\u00E1y t\u00EDnh\\nh\u00F3m 2\\nh\u00F3m 2\\doan_spa_nhom2\\doan_spa_nhom2\\doan_spa_nhom2\\quenmatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EC8DD53D-6A53-4108-AC93-784ED9E65B36}|DOAN_SPA_NHOM2\\DOAN_SPA_NHOM2.csproj|solutionrelative:doan_spa_nhom2\\quenmatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC8DD53D-6A53-4108-AC93-784ED9E65B36}|DOAN_SPA_NHOM2\\DOAN_SPA_NHOM2.csproj|c:\\users\\cheda\\onedrive\\m\u00E1y t\u00EDnh\\nh\u00F3m 2\\nh\u00F3m 2\\doan_spa_nhom2\\doan_spa_nhom2\\doan_spa_nhom2\\lieutrinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC8DD53D-6A53-4108-AC93-784ED9E65B36}|DOAN_SPA_NHOM2\\DOAN_SPA_NHOM2.csproj|solutionrelative:doan_spa_nhom2\\lieutrinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC8DD53D-6A53-4108-AC93-784ED9E65B36}|DOAN_SPA_NHOM2\\DOAN_SPA_NHOM2.csproj|c:\\users\\cheda\\onedrive\\m\u00E1y t\u00EDnh\\nh\u00F3m 2\\nh\u00F3m 2\\doan_spa_nhom2\\doan_spa_nhom2\\doan_spa_nhom2\\lieutrinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EC8DD53D-6A53-4108-AC93-784ED9E65B36}|DOAN_SPA_NHOM2\\DOAN_SPA_NHOM2.csproj|solutionrelative:doan_spa_nhom2\\lieutrinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC8DD53D-6A53-4108-AC93-784ED9E65B36}|DOAN_SPA_NHOM2\\DOAN_SPA_NHOM2.csproj|c:\\users\\cheda\\onedrive\\m\u00E1y t\u00EDnh\\nh\u00F3m 2\\nh\u00F3m 2\\doan_spa_nhom2\\doan_spa_nhom2\\doan_spa_nhom2\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC8DD53D-6A53-4108-AC93-784ED9E65B36}|DOAN_SPA_NHOM2\\DOAN_SPA_NHOM2.csproj|solutionrelative:doan_spa_nhom2\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC8DD53D-6A53-4108-AC93-784ED9E65B36}|DOAN_SPA_NHOM2\\DOAN_SPA_NHOM2.csproj|c:\\users\\cheda\\onedrive\\m\u00E1y t\u00EDnh\\nh\u00F3m 2\\nh\u00F3m 2\\doan_spa_nhom2\\doan_spa_nhom2\\doan_spa_nhom2\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EC8DD53D-6A53-4108-AC93-784ED9E65B36}|DOAN_SPA_NHOM2\\DOAN_SPA_NHOM2.csproj|solutionrelative:doan_spa_nhom2\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC8DD53D-6A53-4108-AC93-784ED9E65B36}|DOAN_SPA_NHOM2\\DOAN_SPA_NHOM2.csproj|c:\\users\\cheda\\onedrive\\m\u00E1y t\u00EDnh\\nh\u00F3m 2\\nh\u00F3m 2\\doan_spa_nhom2\\doan_spa_nhom2\\doan_spa_nhom2\\goidichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC8DD53D-6A53-4108-AC93-784ED9E65B36}|DOAN_SPA_NHOM2\\DOAN_SPA_NHOM2.csproj|solutionrelative:doan_spa_nhom2\\goidichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC8DD53D-6A53-4108-AC93-784ED9E65B36}|DOAN_SPA_NHOM2\\DOAN_SPA_NHOM2.csproj|c:\\users\\cheda\\onedrive\\m\u00E1y t\u00EDnh\\nh\u00F3m 2\\nh\u00F3m 2\\doan_spa_nhom2\\doan_spa_nhom2\\doan_spa_nhom2\\goidichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EC8DD53D-6A53-4108-AC93-784ED9E65B36}|DOAN_SPA_NHOM2\\DOAN_SPA_NHOM2.csproj|solutionrelative:doan_spa_nhom2\\goidichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC8DD53D-6A53-4108-AC93-784ED9E65B36}|DOAN_SPA_NHOM2\\DOAN_SPA_NHOM2.csproj|c:\\users\\cheda\\onedrive\\m\u00E1y t\u00EDnh\\nh\u00F3m 2\\nh\u00F3m 2\\doan_spa_nhom2\\doan_spa_nhom2\\doan_spa_nhom2\\dichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC8DD53D-6A53-4108-AC93-784ED9E65B36}|DOAN_SPA_NHOM2\\DOAN_SPA_NHOM2.csproj|solutionrelative:doan_spa_nhom2\\dichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC8DD53D-6A53-4108-AC93-784ED9E65B36}|DOAN_SPA_NHOM2\\DOAN_SPA_NHOM2.csproj|c:\\users\\cheda\\onedrive\\m\u00E1y t\u00EDnh\\nh\u00F3m 2\\nh\u00F3m 2\\doan_spa_nhom2\\doan_spa_nhom2\\doan_spa_nhom2\\dichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EC8DD53D-6A53-4108-AC93-784ED9E65B36}|DOAN_SPA_NHOM2\\DOAN_SPA_NHOM2.csproj|solutionrelative:doan_spa_nhom2\\dichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC8DD53D-6A53-4108-AC93-784ED9E65B36}|DOAN_SPA_NHOM2\\DOAN_SPA_NHOM2.csproj|c:\\users\\cheda\\onedrive\\m\u00E1y t\u00EDnh\\nh\u00F3m 2\\nh\u00F3m 2\\doan_spa_nhom2\\doan_spa_nhom2\\doan_spa_nhom2\\trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC8DD53D-6A53-4108-AC93-784ED9E65B36}|DOAN_SPA_NHOM2\\DOAN_SPA_NHOM2.csproj|solutionrelative:doan_spa_nhom2\\trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC8DD53D-6A53-4108-AC93-784ED9E65B36}|DOAN_SPA_NHOM2\\DOAN_SPA_NHOM2.csproj|c:\\users\\cheda\\onedrive\\m\u00E1y t\u00EDnh\\nh\u00F3m 2\\nh\u00F3m 2\\doan_spa_nhom2\\doan_spa_nhom2\\doan_spa_nhom2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC8DD53D-6A53-4108-AC93-784ED9E65B36}|DOAN_SPA_NHOM2\\DOAN_SPA_NHOM2.csproj|solutionrelative:doan_spa_nhom2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC8DD53D-6A53-4108-AC93-784ED9E65B36}|DOAN_SPA_NHOM2\\DOAN_SPA_NHOM2.csproj|c:\\users\\cheda\\onedrive\\m\u00E1y t\u00EDnh\\nh\u00F3m 2\\nh\u00F3m 2\\doan_spa_nhom2\\doan_spa_nhom2\\doan_spa_nhom2\\dbconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC8DD53D-6A53-4108-AC93-784ED9E65B36}|DOAN_SPA_NHOM2\\DOAN_SPA_NHOM2.csproj|solutionrelative:doan_spa_nhom2\\dbconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC8DD53D-6A53-4108-AC93-784ED9E65B36}|DOAN_SPA_NHOM2\\DOAN_SPA_NHOM2.csproj|c:\\users\\cheda\\onedrive\\m\u00E1y t\u00EDnh\\nh\u00F3m 2\\nh\u00F3m 2\\doan_spa_nhom2\\doan_spa_nhom2\\doan_spa_nhom2\\quenmatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC8DD53D-6A53-4108-AC93-784ED9E65B36}|DOAN_SPA_NHOM2\\DOAN_SPA_NHOM2.csproj|solutionrelative:doan_spa_nhom2\\quenmatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Khachhang.cs",
+              "DocumentMoniker": "C:\\Users\\cheda\\OneDrive\\M\u00E1y t\u00EDnh\\Nh\u00F3m 2\\Nh\u00F3m 2\\DOAN_SPA_NHOM2\\DOAN_SPA_NHOM2\\DOAN_SPA_NHOM2\\Khachhang.cs",
+              "RelativeDocumentMoniker": "DOAN_SPA_NHOM2\\Khachhang.cs",
+              "ToolTip": "C:\\Users\\cheda\\OneDrive\\M\u00E1y t\u00EDnh\\Nh\u00F3m 2\\Nh\u00F3m 2\\DOAN_SPA_NHOM2\\DOAN_SPA_NHOM2\\DOAN_SPA_NHOM2\\Khachhang.cs",
+              "RelativeToolTip": "DOAN_SPA_NHOM2\\Khachhang.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAADwvz8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T18:29:01.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Thanhtoan.cs",
+              "DocumentMoniker": "C:\\Users\\cheda\\OneDrive\\M\u00E1y t\u00EDnh\\Nh\u00F3m 2\\Nh\u00F3m 2\\DOAN_SPA_NHOM2\\DOAN_SPA_NHOM2\\DOAN_SPA_NHOM2\\Thanhtoan.cs",
+              "RelativeDocumentMoniker": "DOAN_SPA_NHOM2\\Thanhtoan.cs",
+              "ToolTip": "C:\\Users\\cheda\\OneDrive\\M\u00E1y t\u00EDnh\\Nh\u00F3m 2\\Nh\u00F3m 2\\DOAN_SPA_NHOM2\\DOAN_SPA_NHOM2\\DOAN_SPA_NHOM2\\Thanhtoan.cs",
+              "RelativeToolTip": "DOAN_SPA_NHOM2\\Thanhtoan.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T18:26:56.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Thanhtoan.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\cheda\\OneDrive\\M\u00E1y t\u00EDnh\\Nh\u00F3m 2\\Nh\u00F3m 2\\DOAN_SPA_NHOM2\\DOAN_SPA_NHOM2\\DOAN_SPA_NHOM2\\Thanhtoan.cs",
+              "RelativeDocumentMoniker": "DOAN_SPA_NHOM2\\Thanhtoan.cs",
+              "ToolTip": "C:\\Users\\cheda\\OneDrive\\M\u00E1y t\u00EDnh\\Nh\u00F3m 2\\Nh\u00F3m 2\\DOAN_SPA_NHOM2\\DOAN_SPA_NHOM2\\DOAN_SPA_NHOM2\\Thanhtoan.cs [Design]",
+              "RelativeToolTip": "DOAN_SPA_NHOM2\\Thanhtoan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T18:26:55.101Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SanPham.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\cheda\\OneDrive\\M\u00E1y t\u00EDnh\\Nh\u00F3m 2\\Nh\u00F3m 2\\DOAN_SPA_NHOM2\\DOAN_SPA_NHOM2\\DOAN_SPA_NHOM2\\SanPham.cs",
+              "RelativeDocumentMoniker": "DOAN_SPA_NHOM2\\SanPham.cs",
+              "ToolTip": "C:\\Users\\cheda\\OneDrive\\M\u00E1y t\u00EDnh\\Nh\u00F3m 2\\Nh\u00F3m 2\\DOAN_SPA_NHOM2\\DOAN_SPA_NHOM2\\DOAN_SPA_NHOM2\\SanPham.cs [Design]",
+              "RelativeToolTip": "DOAN_SPA_NHOM2\\SanPham.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T18:26:53.105Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Report.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\cheda\\OneDrive\\M\u00E1y t\u00EDnh\\Nh\u00F3m 2\\Nh\u00F3m 2\\DOAN_SPA_NHOM2\\DOAN_SPA_NHOM2\\DOAN_SPA_NHOM2\\Report.cs",
+              "RelativeDocumentMoniker": "DOAN_SPA_NHOM2\\Report.cs",
+              "ToolTip": "C:\\Users\\cheda\\OneDrive\\M\u00E1y t\u00EDnh\\Nh\u00F3m 2\\Nh\u00F3m 2\\DOAN_SPA_NHOM2\\DOAN_SPA_NHOM2\\DOAN_SPA_NHOM2\\Report.cs [Design]",
+              "RelativeToolTip": "DOAN_SPA_NHOM2\\Report.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T18:26:51.809Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LieuTrinh.cs",
+              "DocumentMoniker": "C:\\Users\\cheda\\OneDrive\\M\u00E1y t\u00EDnh\\Nh\u00F3m 2\\Nh\u00F3m 2\\DOAN_SPA_NHOM2\\DOAN_SPA_NHOM2\\DOAN_SPA_NHOM2\\LieuTrinh.cs",
+              "RelativeDocumentMoniker": "DOAN_SPA_NHOM2\\LieuTrinh.cs",
+              "ToolTip": "C:\\Users\\cheda\\OneDrive\\M\u00E1y t\u00EDnh\\Nh\u00F3m 2\\Nh\u00F3m 2\\DOAN_SPA_NHOM2\\DOAN_SPA_NHOM2\\DOAN_SPA_NHOM2\\LieuTrinh.cs",
+              "RelativeToolTip": "DOAN_SPA_NHOM2\\LieuTrinh.cs",
+              "ViewState": "AQIAAIoAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T18:26:42.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LieuTrinh.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\cheda\\OneDrive\\M\u00E1y t\u00EDnh\\Nh\u00F3m 2\\Nh\u00F3m 2\\DOAN_SPA_NHOM2\\DOAN_SPA_NHOM2\\DOAN_SPA_NHOM2\\LieuTrinh.cs",
+              "RelativeDocumentMoniker": "DOAN_SPA_NHOM2\\LieuTrinh.cs",
+              "ToolTip": "C:\\Users\\cheda\\OneDrive\\M\u00E1y t\u00EDnh\\Nh\u00F3m 2\\Nh\u00F3m 2\\DOAN_SPA_NHOM2\\DOAN_SPA_NHOM2\\DOAN_SPA_NHOM2\\LieuTrinh.cs [Design]",
+              "RelativeToolTip": "DOAN_SPA_NHOM2\\LieuTrinh.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T18:26:40.481Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DangNhap.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\cheda\\OneDrive\\M\u00E1y t\u00EDnh\\Nh\u00F3m 2\\Nh\u00F3m 2\\DOAN_SPA_NHOM2\\DOAN_SPA_NHOM2\\DOAN_SPA_NHOM2\\DangNhap.cs",
+              "RelativeDocumentMoniker": "DOAN_SPA_NHOM2\\DangNhap.cs",
+              "ToolTip": "C:\\Users\\cheda\\OneDrive\\M\u00E1y t\u00EDnh\\Nh\u00F3m 2\\Nh\u00F3m 2\\DOAN_SPA_NHOM2\\DOAN_SPA_NHOM2\\DOAN_SPA_NHOM2\\DangNhap.cs [Design]",
+              "RelativeToolTip": "DOAN_SPA_NHOM2\\DangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T18:26:33.463Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Goidichvu.cs",
+              "DocumentMoniker": "C:\\Users\\cheda\\OneDrive\\M\u00E1y t\u00EDnh\\Nh\u00F3m 2\\Nh\u00F3m 2\\DOAN_SPA_NHOM2\\DOAN_SPA_NHOM2\\DOAN_SPA_NHOM2\\Goidichvu.cs",
+              "RelativeDocumentMoniker": "DOAN_SPA_NHOM2\\Goidichvu.cs",
+              "ToolTip": "C:\\Users\\cheda\\OneDrive\\M\u00E1y t\u00EDnh\\Nh\u00F3m 2\\Nh\u00F3m 2\\DOAN_SPA_NHOM2\\DOAN_SPA_NHOM2\\DOAN_SPA_NHOM2\\Goidichvu.cs",
+              "RelativeToolTip": "DOAN_SPA_NHOM2\\Goidichvu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T18:26:24.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Goidichvu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\cheda\\OneDrive\\M\u00E1y t\u00EDnh\\Nh\u00F3m 2\\Nh\u00F3m 2\\DOAN_SPA_NHOM2\\DOAN_SPA_NHOM2\\DOAN_SPA_NHOM2\\Goidichvu.cs",
+              "RelativeDocumentMoniker": "DOAN_SPA_NHOM2\\Goidichvu.cs",
+              "ToolTip": "C:\\Users\\cheda\\OneDrive\\M\u00E1y t\u00EDnh\\Nh\u00F3m 2\\Nh\u00F3m 2\\DOAN_SPA_NHOM2\\DOAN_SPA_NHOM2\\DOAN_SPA_NHOM2\\Goidichvu.cs [Design]",
+              "RelativeToolTip": "DOAN_SPA_NHOM2\\Goidichvu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T18:26:21.401Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Dichvu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\cheda\\OneDrive\\M\u00E1y t\u00EDnh\\Nh\u00F3m 2\\Nh\u00F3m 2\\DOAN_SPA_NHOM2\\DOAN_SPA_NHOM2\\DOAN_SPA_NHOM2\\Dichvu.cs",
+              "RelativeDocumentMoniker": "DOAN_SPA_NHOM2\\Dichvu.cs",
+              "ToolTip": "C:\\Users\\cheda\\OneDrive\\M\u00E1y t\u00EDnh\\Nh\u00F3m 2\\Nh\u00F3m 2\\DOAN_SPA_NHOM2\\DOAN_SPA_NHOM2\\DOAN_SPA_NHOM2\\Dichvu.cs [Design]",
+              "RelativeToolTip": "DOAN_SPA_NHOM2\\Dichvu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T18:26:08.701Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TrangChu.cs",
+              "DocumentMoniker": "C:\\Users\\cheda\\OneDrive\\M\u00E1y t\u00EDnh\\Nh\u00F3m 2\\Nh\u00F3m 2\\DOAN_SPA_NHOM2\\DOAN_SPA_NHOM2\\DOAN_SPA_NHOM2\\TrangChu.cs",
+              "RelativeDocumentMoniker": "DOAN_SPA_NHOM2\\TrangChu.cs",
+              "ToolTip": "C:\\Users\\cheda\\OneDrive\\M\u00E1y t\u00EDnh\\Nh\u00F3m 2\\Nh\u00F3m 2\\DOAN_SPA_NHOM2\\DOAN_SPA_NHOM2\\DOAN_SPA_NHOM2\\TrangChu.cs",
+              "RelativeToolTip": "DOAN_SPA_NHOM2\\TrangChu.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAiwDAAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T18:25:39.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DangNhap.cs",
+              "DocumentMoniker": "C:\\Users\\cheda\\OneDrive\\M\u00E1y t\u00EDnh\\Nh\u00F3m 2\\Nh\u00F3m 2\\DOAN_SPA_NHOM2\\DOAN_SPA_NHOM2\\DOAN_SPA_NHOM2\\DangNhap.cs",
+              "RelativeDocumentMoniker": "DOAN_SPA_NHOM2\\DangNhap.cs",
+              "ToolTip": "C:\\Users\\cheda\\OneDrive\\M\u00E1y t\u00EDnh\\Nh\u00F3m 2\\Nh\u00F3m 2\\DOAN_SPA_NHOM2\\DOAN_SPA_NHOM2\\DOAN_SPA_NHOM2\\DangNhap.cs",
+              "RelativeToolTip": "DOAN_SPA_NHOM2\\DangNhap.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAiwBoAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T18:20:54.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Dichvu.cs",
+              "DocumentMoniker": "C:\\Users\\cheda\\OneDrive\\M\u00E1y t\u00EDnh\\Nh\u00F3m 2\\Nh\u00F3m 2\\DOAN_SPA_NHOM2\\DOAN_SPA_NHOM2\\DOAN_SPA_NHOM2\\Dichvu.cs",
+              "RelativeDocumentMoniker": "DOAN_SPA_NHOM2\\Dichvu.cs",
+              "ToolTip": "C:\\Users\\cheda\\OneDrive\\M\u00E1y t\u00EDnh\\Nh\u00F3m 2\\Nh\u00F3m 2\\DOAN_SPA_NHOM2\\DOAN_SPA_NHOM2\\DOAN_SPA_NHOM2\\Dichvu.cs",
+              "RelativeToolTip": "DOAN_SPA_NHOM2\\Dichvu.cs",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAAABoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T18:12:58.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "QuenMatKhau.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\cheda\\OneDrive\\M\u00E1y t\u00EDnh\\Nh\u00F3m 2\\Nh\u00F3m 2\\DOAN_SPA_NHOM2\\DOAN_SPA_NHOM2\\DOAN_SPA_NHOM2\\QuenMatKhau.cs",
+              "RelativeDocumentMoniker": "DOAN_SPA_NHOM2\\QuenMatKhau.cs",
+              "ToolTip": "C:\\Users\\cheda\\OneDrive\\M\u00E1y t\u00EDnh\\Nh\u00F3m 2\\Nh\u00F3m 2\\DOAN_SPA_NHOM2\\DOAN_SPA_NHOM2\\DOAN_SPA_NHOM2\\QuenMatKhau.cs [Design]",
+              "RelativeToolTip": "DOAN_SPA_NHOM2\\QuenMatKhau.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T18:12:29.166Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "QuenMatKhau.cs",
+              "DocumentMoniker": "C:\\Users\\cheda\\OneDrive\\M\u00E1y t\u00EDnh\\Nh\u00F3m 2\\Nh\u00F3m 2\\DOAN_SPA_NHOM2\\DOAN_SPA_NHOM2\\DOAN_SPA_NHOM2\\QuenMatKhau.cs",
+              "RelativeDocumentMoniker": "DOAN_SPA_NHOM2\\QuenMatKhau.cs",
+              "ToolTip": "C:\\Users\\cheda\\OneDrive\\M\u00E1y t\u00EDnh\\Nh\u00F3m 2\\Nh\u00F3m 2\\DOAN_SPA_NHOM2\\DOAN_SPA_NHOM2\\DOAN_SPA_NHOM2\\QuenMatKhau.cs",
+              "RelativeToolTip": "DOAN_SPA_NHOM2\\QuenMatKhau.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAADMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T18:12:38.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DBConnect.cs",
+              "DocumentMoniker": "C:\\Users\\cheda\\OneDrive\\M\u00E1y t\u00EDnh\\Nh\u00F3m 2\\Nh\u00F3m 2\\DOAN_SPA_NHOM2\\DOAN_SPA_NHOM2\\DOAN_SPA_NHOM2\\DBConnect.cs",
+              "RelativeDocumentMoniker": "DOAN_SPA_NHOM2\\DBConnect.cs",
+              "ToolTip": "C:\\Users\\cheda\\OneDrive\\M\u00E1y t\u00EDnh\\Nh\u00F3m 2\\Nh\u00F3m 2\\DOAN_SPA_NHOM2\\DOAN_SPA_NHOM2\\DOAN_SPA_NHOM2\\DBConnect.cs",
+              "RelativeToolTip": "DOAN_SPA_NHOM2\\DBConnect.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAB6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T18:11:02.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cheda\\OneDrive\\M\u00E1y t\u00EDnh\\Nh\u00F3m 2\\Nh\u00F3m 2\\DOAN_SPA_NHOM2\\DOAN_SPA_NHOM2\\DOAN_SPA_NHOM2\\Program.cs",
+              "RelativeDocumentMoniker": "DOAN_SPA_NHOM2\\Program.cs",
+              "ToolTip": "C:\\Users\\cheda\\OneDrive\\M\u00E1y t\u00EDnh\\Nh\u00F3m 2\\Nh\u00F3m 2\\DOAN_SPA_NHOM2\\DOAN_SPA_NHOM2\\DOAN_SPA_NHOM2\\Program.cs",
+              "RelativeToolTip": "DOAN_SPA_NHOM2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T18:10:56.869Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

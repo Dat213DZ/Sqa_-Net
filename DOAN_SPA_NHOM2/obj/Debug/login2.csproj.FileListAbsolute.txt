@@ -1,0 +1,43 @@
+C:\Users\Che Chi Dat\OneDrive\Máy tính\hk1-2023-2024\.NET\login2 - Copy\login2\bin\Debug\login2.exe.config
+C:\Users\Che Chi Dat\OneDrive\Máy tính\hk1-2023-2024\.NET\login2 - Copy\login2\bin\Debug\login2.exe
+C:\Users\Che Chi Dat\OneDrive\Máy tính\hk1-2023-2024\.NET\login2 - Copy\login2\bin\Debug\login2.pdb
+C:\Users\Che Chi Dat\OneDrive\Máy tính\hk1-2023-2024\.NET\login2 - Copy\login2\obj\Debug\login2.csprojResolveAssemblyReference.cache
+C:\Users\Che Chi Dat\OneDrive\Máy tính\hk1-2023-2024\.NET\login2 - Copy\login2\obj\Debug\login2.Form1.resources
+C:\Users\Che Chi Dat\OneDrive\Máy tính\hk1-2023-2024\.NET\login2 - Copy\login2\obj\Debug\login2.Properties.Resources.resources
+C:\Users\Che Chi Dat\OneDrive\Máy tính\hk1-2023-2024\.NET\login2 - Copy\login2\obj\Debug\login2.TrangChu.resources
+C:\Users\Che Chi Dat\OneDrive\Máy tính\hk1-2023-2024\.NET\login2 - Copy\login2\obj\Debug\login2.csproj.GenerateResource.Cache
+C:\Users\Che Chi Dat\OneDrive\Máy tính\hk1-2023-2024\.NET\login2 - Copy\login2\obj\Debug\login2.exe
+C:\Users\Che Chi Dat\OneDrive\Máy tính\hk1-2023-2024\.NET\login2 - Copy\login2\obj\Debug\login2.pdb
+D:\net\login2 - Copy\login2\bin\Debug\login2.exe.config
+D:\net\login2 - Copy\login2\bin\Debug\login2.exe
+D:\net\login2 - Copy\login2\bin\Debug\login2.pdb
+D:\net\login2 - Copy\login2\obj\Debug\login2.csproj.AssemblyReference.cache
+D:\net\login2 - Copy\login2\obj\Debug\login2.Properties.Resources.resources
+D:\net\login2 - Copy\login2\obj\Debug\login2.TrangChu.resources
+D:\net\login2 - Copy\login2\obj\Debug\login2.csproj.GenerateResource.cache
+D:\net\login2 - Copy\login2\obj\Debug\login2.csproj.CoreCompileInputs.cache
+D:\net\login2 - Copy\login2\obj\Debug\login2.exe
+D:\net\login2 - Copy\login2\obj\Debug\login2.pdb
+D:\net\login2 - Copy\login2\obj\Debug\login2.DangNhap.resources
+D:\net\login2 - Copy\login2\obj\Debug\login2.mau.resources
+D:\net\login2 - Copy\login2\obj\Debug\login2.Dichvu.resources
+D:\net\login2 - Copy\login2\obj\Debug\login2.Goidichvu.resources
+D:\net\login2 - Copy\login2\obj\Debug\login2.LichHen.resources
+D:\net\login2 - Copy\login2\obj\Debug\login2.SanPham.resources
+D:\net\login2 - Copy\login2\obj\Debug\login2.Thanhtoan.resources
+D:\net\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\bin\Debug\login2.exe.config
+D:\net\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\bin\Debug\login2.exe
+D:\net\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\bin\Debug\login2.pdb
+D:\net\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\login2.csproj.AssemblyReference.cache
+D:\net\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\login2.DangNhap.resources
+D:\net\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\login2.Dichvu.resources
+D:\net\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\login2.Goidichvu.resources
+D:\net\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\login2.LichHen.resources
+D:\net\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\login2.Properties.Resources.resources
+D:\net\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\login2.SanPham.resources
+D:\net\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\login2.Thanhtoan.resources
+D:\net\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\login2.TrangChu.resources
+D:\net\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\login2.csproj.GenerateResource.cache
+D:\net\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\login2.csproj.CoreCompileInputs.cache
+D:\net\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\login2.exe
+D:\net\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\login2.pdb

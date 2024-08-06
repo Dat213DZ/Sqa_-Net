@@ -1,0 +1,162 @@
+D:\net\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\bin\Debug\login2.exe.config
+D:\net\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\bin\Debug\login2.exe
+D:\net\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\bin\Debug\login2.pdb
+D:\net\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\DOAN_SPA_NHOM2.csproj.AssemblyReference.cache
+D:\net\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\login2.DangNhap.resources
+D:\net\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\login2.Dichvu.resources
+D:\net\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\login2.Goidichvu.resources
+D:\net\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\login2.LichHen.resources
+D:\net\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\login2.Properties.Resources.resources
+D:\net\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\login2.SanPham.resources
+D:\net\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\login2.Thanhtoan.resources
+D:\net\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\login2.TrangChu.resources
+D:\net\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\DOAN_SPA_NHOM2.csproj.GenerateResource.cache
+D:\net\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\DOAN_SPA_NHOM2.csproj.CoreCompileInputs.cache
+D:\net\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\login2.exe
+D:\net\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\login2.pdb
+D:\net\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\login2.LieuTrinh.resources
+D:\net\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\login2.Khachhang.resources
+D:\ZALO\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\bin\Debug\login2.exe.config
+D:\ZALO\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\login2.exe
+D:\ZALO\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\login2.pdb
+D:\ZALO\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\bin\Debug\login2.exe
+D:\ZALO\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\bin\Debug\login2.pdb
+D:\ZALO\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\DOAN_SPA_NHOM2.csprojResolveAssemblyReference.cache
+D:\ZALO\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\login2.DangNhap.resources
+D:\ZALO\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\login2.Dichvu.resources
+D:\ZALO\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\login2.Goidichvu.resources
+D:\ZALO\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\login2.Khachhang.resources
+D:\ZALO\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\login2.LichHen.resources
+D:\ZALO\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\login2.LieuTrinh.resources
+D:\ZALO\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\login2.Properties.Resources.resources
+D:\ZALO\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\login2.SanPham.resources
+D:\ZALO\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\login2.Thanhtoan.resources
+D:\ZALO\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\login2.TrangChu.resources
+D:\ZALO\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\DOAN_SPA_NHOM2.csproj.GenerateResource.Cache
+D:\TH HQTCSDL\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\bin\Debug\login2.exe.config
+D:\TH HQTCSDL\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\bin\Debug\login2.exe
+D:\TH HQTCSDL\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\bin\Debug\login2.pdb
+D:\TH HQTCSDL\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\DOAN_SPA_NHOM2.csproj.AssemblyReference.cache
+D:\TH HQTCSDL\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\login2.DangNhap.resources
+D:\TH HQTCSDL\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\login2.Dichvu.resources
+D:\TH HQTCSDL\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\login2.Goidichvu.resources
+D:\TH HQTCSDL\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\login2.Khachhang.resources
+D:\TH HQTCSDL\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\login2.LichHen.resources
+D:\TH HQTCSDL\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\login2.LieuTrinh.resources
+D:\TH HQTCSDL\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\login2.Properties.Resources.resources
+D:\TH HQTCSDL\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\login2.SanPham.resources
+D:\TH HQTCSDL\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\login2.Thanhtoan.resources
+D:\TH HQTCSDL\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\login2.TrangChu.resources
+D:\TH HQTCSDL\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\DOAN_SPA_NHOM2.csproj.GenerateResource.cache
+D:\TH HQTCSDL\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\DOAN_SPA_NHOM2.csproj.CoreCompileInputs.cache
+D:\TH HQTCSDL\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\login2.exe
+D:\TH HQTCSDL\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\login2.pdb
+C:\Users\Che Chi Dat\OneDrive\Máy tính\hk1-2023-2024\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\bin\Debug\login2.exe.config
+C:\Users\Che Chi Dat\OneDrive\Máy tính\hk1-2023-2024\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\login2.exe
+C:\Users\Che Chi Dat\OneDrive\Máy tính\hk1-2023-2024\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\login2.pdb
+C:\Users\Che Chi Dat\OneDrive\Máy tính\hk1-2023-2024\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\bin\Debug\login2.exe
+C:\Users\Che Chi Dat\OneDrive\Máy tính\hk1-2023-2024\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\bin\Debug\login2.pdb
+C:\Users\Che Chi Dat\OneDrive\Máy tính\hk1-2023-2024\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\DOAN_SPA_NHOM2.csprojResolveAssemblyReference.cache
+C:\Users\Che Chi Dat\OneDrive\Máy tính\hk1-2023-2024\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\login2.DangNhap.resources
+C:\Users\Che Chi Dat\OneDrive\Máy tính\hk1-2023-2024\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\login2.Dichvu.resources
+C:\Users\Che Chi Dat\OneDrive\Máy tính\hk1-2023-2024\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\login2.Goidichvu.resources
+C:\Users\Che Chi Dat\OneDrive\Máy tính\hk1-2023-2024\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\login2.Khachhang.resources
+C:\Users\Che Chi Dat\OneDrive\Máy tính\hk1-2023-2024\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\login2.LichHen.resources
+C:\Users\Che Chi Dat\OneDrive\Máy tính\hk1-2023-2024\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\login2.LieuTrinh.resources
+C:\Users\Che Chi Dat\OneDrive\Máy tính\hk1-2023-2024\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\login2.Properties.Resources.resources
+C:\Users\Che Chi Dat\OneDrive\Máy tính\hk1-2023-2024\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\login2.SanPham.resources
+C:\Users\Che Chi Dat\OneDrive\Máy tính\hk1-2023-2024\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\login2.Thanhtoan.resources
+C:\Users\Che Chi Dat\OneDrive\Máy tính\hk1-2023-2024\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\login2.TrangChu.resources
+C:\Users\Che Chi Dat\OneDrive\Máy tính\hk1-2023-2024\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\DOAN_SPA_NHOM2.csproj.GenerateResource.Cache
+C:\Users\Che Chi Dat\OneDrive\Máy tính\hk1-2023-2024\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\login2.Report.resources
+D:\net\Nhóm 2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\DOAN_SPA_NHOM2.csproj.AssemblyReference.cache
+D:\net\Nhóm 2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\login2.DangNhap.resources
+D:\net\Nhóm 2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\login2.Dichvu.resources
+D:\net\Nhóm 2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\login2.Goidichvu.resources
+D:\net\Nhóm 2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\login2.Khachhang.resources
+D:\net\Nhóm 2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\login2.LichHen.resources
+D:\net\Nhóm 2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\login2.LieuTrinh.resources
+D:\net\Nhóm 2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\login2.Properties.Resources.resources
+D:\net\Nhóm 2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\login2.Report.resources
+D:\net\Nhóm 2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\login2.SanPham.resources
+D:\net\Nhóm 2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\login2.Thanhtoan.resources
+D:\net\Nhóm 2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\login2.TrangChu.resources
+D:\net\Nhóm 2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\DOAN_SPA_NHOM2.csproj.GenerateResource.cache
+D:\net\Nhóm 2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\DOAN_SPA_NHOM2.csproj.CoreCompileInputs.cache
+D:\net\Nhóm 2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\login2.exe
+D:\net\Nhóm 2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\login2.pdb
+D:\net\Nhóm 2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\bin\Debug\login2.exe.config
+D:\net\Nhóm 2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\bin\Debug\login2.exe
+D:\net\Nhóm 2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\bin\Debug\login2.pdb
+D:\net\Nhóm 2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\net\Nhóm 2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\net\Nhóm 2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\bin\Debug\CrystalDecisions.Shared.dll
+D:\net\Nhóm 2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\net\Nhóm 2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\net\Nhóm 2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\net\Nhóm 2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\net\Nhóm 2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\net\Nhóm 2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\net\Nhóm 2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\net\Nhóm 2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\net\Nhóm 2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\net\Nhóm 2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\net\Nhóm 2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\net\Nhóm 2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\net\Nhóm 2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\net\Nhóm 2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\bin\Debug\stdole.dll
+D:\net\Nhóm 2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\DOAN_SPA_NHOM2.csproj.CopyComplete
+D:\net\Nhóm 2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\login2.QuenMatKhau.resources
+C:\Users\Che Chi Dat\OneDrive\Máy tính\hk1-2023-2024\.NET\Nhóm 2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\bin\Debug\login2.exe.config
+C:\Users\Che Chi Dat\OneDrive\Máy tính\hk1-2023-2024\.NET\Nhóm 2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\login2.exe
+C:\Users\Che Chi Dat\OneDrive\Máy tính\hk1-2023-2024\.NET\Nhóm 2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\login2.pdb
+C:\Users\Che Chi Dat\OneDrive\Máy tính\hk1-2023-2024\.NET\Nhóm 2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\bin\Debug\login2.exe
+C:\Users\Che Chi Dat\OneDrive\Máy tính\hk1-2023-2024\.NET\Nhóm 2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\bin\Debug\login2.pdb
+C:\Users\Che Chi Dat\OneDrive\Máy tính\hk1-2023-2024\.NET\Nhóm 2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\DOAN_SPA_NHOM2.csprojResolveAssemblyReference.cache
+C:\Users\Che Chi Dat\OneDrive\Máy tính\hk1-2023-2024\.NET\Nhóm 2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\login2.DangNhap.resources
+C:\Users\Che Chi Dat\OneDrive\Máy tính\hk1-2023-2024\.NET\Nhóm 2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\login2.Dichvu.resources
+C:\Users\Che Chi Dat\OneDrive\Máy tính\hk1-2023-2024\.NET\Nhóm 2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\login2.Goidichvu.resources
+C:\Users\Che Chi Dat\OneDrive\Máy tính\hk1-2023-2024\.NET\Nhóm 2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\login2.Khachhang.resources
+C:\Users\Che Chi Dat\OneDrive\Máy tính\hk1-2023-2024\.NET\Nhóm 2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\login2.LichHen.resources
+C:\Users\Che Chi Dat\OneDrive\Máy tính\hk1-2023-2024\.NET\Nhóm 2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\login2.LieuTrinh.resources
+C:\Users\Che Chi Dat\OneDrive\Máy tính\hk1-2023-2024\.NET\Nhóm 2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\login2.Properties.Resources.resources
+C:\Users\Che Chi Dat\OneDrive\Máy tính\hk1-2023-2024\.NET\Nhóm 2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\login2.QuenMatKhau.resources
+C:\Users\Che Chi Dat\OneDrive\Máy tính\hk1-2023-2024\.NET\Nhóm 2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\login2.Report.resources
+C:\Users\Che Chi Dat\OneDrive\Máy tính\hk1-2023-2024\.NET\Nhóm 2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\login2.SanPham.resources
+C:\Users\Che Chi Dat\OneDrive\Máy tính\hk1-2023-2024\.NET\Nhóm 2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\login2.Thanhtoan.resources
+C:\Users\Che Chi Dat\OneDrive\Máy tính\hk1-2023-2024\.NET\Nhóm 2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\login2.TrangChu.resources
+C:\Users\Che Chi Dat\OneDrive\Máy tính\hk1-2023-2024\.NET\Nhóm 2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\DOAN_SPA_NHOM2.csproj.GenerateResource.Cache
+C:\Users\cheda\OneDrive\Máy tính\Nhóm 2\Nhóm 2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\bin\Debug\login2.exe.config
+C:\Users\cheda\OneDrive\Máy tính\Nhóm 2\Nhóm 2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\bin\Debug\login2.exe
+C:\Users\cheda\OneDrive\Máy tính\Nhóm 2\Nhóm 2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\bin\Debug\login2.pdb
+C:\Users\cheda\OneDrive\Máy tính\Nhóm 2\Nhóm 2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\cheda\OneDrive\Máy tính\Nhóm 2\Nhóm 2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\cheda\OneDrive\Máy tính\Nhóm 2\Nhóm 2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\cheda\OneDrive\Máy tính\Nhóm 2\Nhóm 2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\cheda\OneDrive\Máy tính\Nhóm 2\Nhóm 2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\cheda\OneDrive\Máy tính\Nhóm 2\Nhóm 2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\cheda\OneDrive\Máy tính\Nhóm 2\Nhóm 2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\cheda\OneDrive\Máy tính\Nhóm 2\Nhóm 2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\cheda\OneDrive\Máy tính\Nhóm 2\Nhóm 2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\cheda\OneDrive\Máy tính\Nhóm 2\Nhóm 2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\cheda\OneDrive\Máy tính\Nhóm 2\Nhóm 2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\cheda\OneDrive\Máy tính\Nhóm 2\Nhóm 2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\cheda\OneDrive\Máy tính\Nhóm 2\Nhóm 2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\bin\Debug\stdole.dll
+C:\Users\cheda\OneDrive\Máy tính\Nhóm 2\Nhóm 2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\DOAN_SPA_NHOM2.csproj.AssemblyReference.cache
+C:\Users\cheda\OneDrive\Máy tính\Nhóm 2\Nhóm 2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\login2.DangNhap.resources
+C:\Users\cheda\OneDrive\Máy tính\Nhóm 2\Nhóm 2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\login2.Dichvu.resources
+C:\Users\cheda\OneDrive\Máy tính\Nhóm 2\Nhóm 2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\login2.Goidichvu.resources
+C:\Users\cheda\OneDrive\Máy tính\Nhóm 2\Nhóm 2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\login2.Khachhang.resources
+C:\Users\cheda\OneDrive\Máy tính\Nhóm 2\Nhóm 2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\login2.LichHen.resources
+C:\Users\cheda\OneDrive\Máy tính\Nhóm 2\Nhóm 2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\login2.LieuTrinh.resources
+C:\Users\cheda\OneDrive\Máy tính\Nhóm 2\Nhóm 2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\login2.Properties.Resources.resources
+C:\Users\cheda\OneDrive\Máy tính\Nhóm 2\Nhóm 2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\login2.QuenMatKhau.resources
+C:\Users\cheda\OneDrive\Máy tính\Nhóm 2\Nhóm 2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\login2.Report.resources
+C:\Users\cheda\OneDrive\Máy tính\Nhóm 2\Nhóm 2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\login2.SanPham.resources
+C:\Users\cheda\OneDrive\Máy tính\Nhóm 2\Nhóm 2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\login2.Thanhtoan.resources
+C:\Users\cheda\OneDrive\Máy tính\Nhóm 2\Nhóm 2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\login2.TrangChu.resources
+C:\Users\cheda\OneDrive\Máy tính\Nhóm 2\Nhóm 2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\DOAN_SPA_NHOM2.csproj.GenerateResource.cache
+C:\Users\cheda\OneDrive\Máy tính\Nhóm 2\Nhóm 2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\DOAN_SPA_NHOM2.csproj.CoreCompileInputs.cache
+C:\Users\cheda\OneDrive\Máy tính\Nhóm 2\Nhóm 2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\DOAN_SPA.A5E8F058.Up2Date
+C:\Users\cheda\OneDrive\Máy tính\Nhóm 2\Nhóm 2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\login2.exe
+C:\Users\cheda\OneDrive\Máy tính\Nhóm 2\Nhóm 2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\DOAN_SPA_NHOM2\obj\Debug\login2.pdb
